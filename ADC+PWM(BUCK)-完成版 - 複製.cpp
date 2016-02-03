@@ -19,7 +19,7 @@
 // $Copyright: Copyright (C) 2009-2015 Texas Instruments Incorporated -
 //             http://www.ti.com/ ALL RIGHTS RESERVED $
 //###########################################################################
-
+-------------------------------------------------
 #include "DSP28x_Project.h"     // Device Headerfile and Examples Include File
 typedef struct {
 	volatile struct EPWM_REGS *EPwmRegHandle;
